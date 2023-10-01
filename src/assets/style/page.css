@@ -1,0 +1,21 @@
+/* Desain Page-Men section */
+.page-men {
+    background-color: var(--background-color);
+    color: var(--primary-color);
+    /* Tambahkan properti CSS lainnya sesuai desain Page-Men section */
+  }
+  
+  /* Desain Page-Women section */
+.page-women {
+    background-color: var(--background-color);
+    color: var(--secondary-color);
+    /* Tambahkan properti CSS lainnya sesuai desain Page-Women section */
+  }
+  
+  /* Desain Page-Unavailable product */
+.page-unavailable {
+    background-color: var(--background-color);
+    color: #333; /* Misalnya, warna abu-abu untuk produk yang tidak tersedia */
+    /* Tambahkan properti CSS lainnya sesuai desain Page-Unavailable product */
+  }
+  
